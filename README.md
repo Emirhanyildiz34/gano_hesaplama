@@ -10,4 +10,4 @@ Bu proje, üniversite öğrencilerinin vize, final ve kredi bilgilerini girerek 
 ## 🛠️ Kurulum
 1. Bu depoyu klonlayın: `git clone https://github.com/Emirhanyildiz34/gano_hesaplama.git`
 2. Gerekli kütüphaneleri yükleyin: `pip install -r requirements.txt`
-3. Uygulamayı çalıştırın: `python src/gano_hesaplama_ui.py`
+3. Uygulamayı çalıştırın: `python gano_hesaplama_ui.py`
